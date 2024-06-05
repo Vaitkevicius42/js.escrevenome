@@ -5,7 +5,6 @@ function setup() {
   }
   
   function draw() {
-    background(0);
     stroke("purple");
     fill("pink");
   
